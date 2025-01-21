@@ -1,15 +1,17 @@
 # Selenium Testing
 
 This repository is dedicated to automating web application testing using Selenium. It provides a structured framework to write, organize, and execute test cases efficiently.
-# Project Overview
+## Project Overview
 
 The project is organized as follows:
 demoselenium/: Contains the main Selenium test scripts and associated resources.
 
-# Prerequisites
+## Prerequisites
 Before running the tests, ensure you have the following installed:
 
-Java Development Kit (JDK): Selenium WebDriver requires Java to execute.  Selenium WebDriver: The core tool for browser automation.  Browser Drivers: Specific drivers for the browsers you intend to test (e.g., ChromeDriver for Google Chrome).  JUnit: For structuring and running the test cases.
+Java Development Kit (JDK): Selenium WebDriver requires Java to execute.  Selenium WebDriver: The core tool for browser automation.  
+Browser Drivers: Specific drivers for the browsers you intend to test (e.g., ChromeDriver for Google Chrome).  
+JUnit: For structuring and running the test cases.
 Setup Instructions
 
 ## Clone the Repository:
